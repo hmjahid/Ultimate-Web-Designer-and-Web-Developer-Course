@@ -1,6 +1,10 @@
 body {
     background-color: #fc3;
-    color: #444;
+    color: #333;
+}
+
+body#idClassPage{
+    background-color: white;
 }
 
 h1 {
@@ -22,4 +26,13 @@ ol {
     margin: 20px;
     padding: 20px;
     color: white;
+}
+
+
+/*Styles for ID & Class lecture*/
+
+h1#main-heading{
+    color: red;
+    background: black;
+    padding: 10px;
 }
