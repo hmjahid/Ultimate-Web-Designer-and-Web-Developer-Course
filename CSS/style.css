@@ -35,4 +35,16 @@ h1#main-heading{
     color: red;
     background: black;
     padding: 10px;
+    margin: 20px;
+    font-size: 18px;
+}
+
+.sectionHeading{
+    color: deeppink;
+    border: solid 1px blue;
+    padding: 40px 20px 10px;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: normal;
+    
 }
