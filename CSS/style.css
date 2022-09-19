@@ -48,3 +48,38 @@ h1#main-heading{
     font-weight: normal;
     
 }
+
+/*Sttyles for Descendannt Selector lecture*/
+
+.primary-section{
+    background-color: white;
+    border: solid 10px black;
+    padding 20px;
+    
+}
+
+.primary-section h2{
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.secondary-section{
+    background-color: #333;
+    color: aqua;
+    padding: 10px;
+    
+}
+
+.secondary-section p{
+    font-size: 14px;
+    font-style: normal;
+    
+}
+
+.secondary-section p em{
+    color: white;
+
+}
+
+
+
+
