@@ -80,6 +80,25 @@ h1#main-heading{
 
 }
 
+/* Styles for Grouping Selector lecture */ 
 
+#mainContainer{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.primary-section, .secondary-section{
+    margin: 30px 20px;
+}
+
+.inside-section{
+    border: 1px solid black;
+}
+
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+    border-bottom: 2px solid red;
+    padding: 0  0 10px;
+}
 
 
